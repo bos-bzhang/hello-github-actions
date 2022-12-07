@@ -6,9 +6,9 @@
 -->
 
 # Hello GitHub Actions
-:)
+_:)
 :(
-:O
+:O_
 _Create a GitHub Action and use it in a workflow._
 
 <!--
